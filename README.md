@@ -5,7 +5,7 @@ classic minesweeper game :boom: in python
 ## Usage
 grab the latest version from [releases page](https://github.com/uniquepersun/minesweeper/releases) or clone the repo and start playing :video_game:
 
-## Requirements:smiley::
+## Requirements :smiley::
 - what you need to install is in  `requirements.txt` file, so you don't have to do much! just run this:
     pip install -r requirements.txt 
 and you are ready to :boom: those explosivesss!

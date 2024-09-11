@@ -20,8 +20,10 @@ Classic Minesweeper rules—easy to learn, but tricky to master! :brain:. Python
 
 ## Some screenshots for you :)
 - watch it in aciton!
-    - [here]()
-    - [another!]()
+    - [here](https://github.com/user-attachments/assets/844a2487-4259-4796-8e44-99dd6344af75)
+
+    - [another!](https://github.com/user-attachments/assets/5f12d5e9-a70f-4a53-ae4b-5a19eac7cd7d)
+
 
 
 ## Customization :wrench:
